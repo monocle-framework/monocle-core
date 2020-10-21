@@ -1,3 +1,5 @@
+.idea
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Eclipse template
 .metadata
@@ -736,9 +738,6 @@ fabric.properties
 # TODO: where does this rule come from?
 docs/_book
 
-# TODO: where does this rule come from?
-test/
-
 ### Xcode template
 # Xcode
 #
@@ -766,3 +765,17 @@ DerivedData/
 
 ## Gcc Patch
 /*.gcno
+
+.idea/codeStyles/codeStyleConfig.xml
+
+.idea/jsLibraryMappings.xml
+
+.idea/modules.xml
+
+.idea/monocle-core.iml
+
+.idea/prettier.xml
+
+.idea/vcs.xml
+
+.idea/webResources.xml

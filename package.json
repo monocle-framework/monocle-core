@@ -28,5 +28,12 @@
   "bugs": {
     "url": "https://github.com/monocle-framework/monocle-core/issues"
   },
-  "homepage": "https://github.com/monocle-framework/monocle-core#readme"
+  "homepage": "https://github.com/monocle-framework/monocle-core#readme",
+  "prettier": {
+    "semi": false,
+    "arrowParens": "always",
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true
+  }
 }
